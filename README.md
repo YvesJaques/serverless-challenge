@@ -12,7 +12,7 @@ O desafio que propomos é provisionar uma infraestrutura na AWS, em que se tenha
 ## Requisitos
  1. Utilizar Clean Architectute 🧓 <br/>
  2. Seu desafio precisa estar versionado no Github, em um repositório público. <br/>
- 3. Documentação é primordial e vamos nos guiar por ela para instalar e rodar o projeto, incluindo testes unitários. 🗒️ <br/>
+ 3. Documentação é primordial e vamos nos guiar por ela para instalar e rodar o projeto, incluindo testes unitários. <br/>
  4. Um funcionário deve possuir como atributos : Id , Idade , Nome e Cargo.<br/>
  5. Salvar as informações necessárias em um banco de dados relacional ou não relacional de sua escolha dentro de uma infraestrutura AWS<br/>
  6. Será necessário que a Lambda consiga consultar, deletar e atualizar um funcionário e que ele esteja acessível via internet.<br/>
@@ -44,7 +44,7 @@ Caso haja complicações ao conectar com a API, pode usar dados mockados mesmo.
 - Não tem problema se você não conseguir finalizar tudo! Não deixe de enviar seu desafio por isso!
 - Sinta-se livre para explicar como você atendeu aos itens no README do projeto.
 
-#Cuidados ⚠️
+# Cuidados ⚠️
 - Não há necessidade de deixar as lambdas criadas na AWS, caso queira, pode evidenciar o funcionamento das mesmas com capturas e subir junto no projeto
 - Não deixe suas chaves ou URLs expostas no projeto
 
