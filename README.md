@@ -33,7 +33,6 @@ Caso haja complicações ao conectar com a API, pode usar dados mockados mesmo.
 ## ⭐Pontos extras se você:
 - Consumir a API
 - Criar testes unitários
-- Utilizar gerenciamento de Estado: Você pode considerar o uso de bibliotecas como Ngrx, Ngxs, Akita ou compatíveis com seu framework.
 - Der atenção ao gerenciamento de Memória: Preste atenção especial ao desempenho e evite vazamentos de memória.
 - Der atenção à responsividade: O aplicativo deve ser responsivo e funcionar corretamente em diferentes tamanhos de tela e orientações.
 - Utilizar algum padrão de nomenclatura de Arquivos
